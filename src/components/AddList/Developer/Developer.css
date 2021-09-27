@@ -1,0 +1,38 @@
+.developer{
+    background-color: rgba(225, 230, 235, 0.486);
+    border: 1px solid lightgray;
+    border-radius: 16px;
+    transition: 0.8s;
+}
+
+.developer-data{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.developer:hover{
+    box-shadow: 2px 2px 14px 2px rgba(181, 184, 185, 0.4);
+}
+
+.developer img{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.btn-add-list{
+    background-color: #fc6c53ee;
+    border: none;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 12px 24px;
+    box-shadow: 2px 2px 12px 2px #fc6c53a9;
+    transition: 0.8s;
+}
+
+.btn-add-list:hover{
+    background-color: #ddd;
+    color: black;
+    box-shadow: none;
+}

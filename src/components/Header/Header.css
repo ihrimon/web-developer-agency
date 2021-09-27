@@ -1,0 +1,18 @@
+.header{
+    background-image: linear-gradient(to left, #fda24d, #f57999);
+    border: 1px solid lightgray;
+    margin-bottom: 50px;
+    padding: 20px;
+    color: white;
+}
+
+.header h1{
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.header p{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
